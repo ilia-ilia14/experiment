@@ -1,10 +1,11 @@
-public class Helloworld{
+
+public class HelloWorld{
     /**
      * @param args the command line arguments
      */
     public static void main(String args[])
     {
-	System.out.println("hello world");
+	System.out.println("Hellow GitHub World");
     }
     
 }
